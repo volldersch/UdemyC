@@ -8,7 +8,7 @@ int main()
     uint16_t c1 = 0;
     uint8_t d1 = 0;
 
-    int64_t a2 = 0;
+    int64_t a2 = 2;
     int32_t b2 = 0;
     int16_t c2 = 0;
     int8_t d2 = 0;
